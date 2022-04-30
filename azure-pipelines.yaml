@@ -5,7 +5,7 @@ stages:
   jobs:
   - job: Build
     pool:
-      name: Hosted Ubuntu 1604
+      name: Hosted Ubuntu 2004
     steps:
     - task: ArchiveFiles@2
       displayName: 'Archive Azure Vote'
