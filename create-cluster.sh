@@ -7,7 +7,7 @@ clusterName="quangnm-cluster"
 # Install aks cli
 echo "Installing AKS CLI"
 
-az aks install-cli
+# az aks install-cli
 
 echo "AKS CLI installed"
 
